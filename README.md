@@ -46,7 +46,7 @@ MySQL 中比较常用的命令包括：
 - `SHOW TABLES`: 显示数据库中的所有表。
 
 除了上述基本命令之外，MySQL 还支持事务处理、触发器、存储过程等高级特性。掌握 MySQL 的使用，可以帮助我们更好地进行数据存储、管理和处理。想了解更多MYSQL的知识点可参考我以下几篇文章：
-- [MySQL原理介绍](https://blog.csdn.net/qq_35745940/article/details/121345690)
+- [MySQL原理介绍](https://mp.weixin.qq.com/s?__biz=MzI3MDM5NjgwNg==&mid=2247485107&idx=1&sn=38a4975856ca05a635dff1699d023370&chksm=ead0fa5adda7734c8af45d92d3db45cfdfa9ed90497abd5245aed1d0bc3e69b9e79e27c6e6e1&scene=21#wechat_redirect)
 - [MySQL高可用实战（ MHA）](https://mp.weixin.qq.com/s?__biz=MzI3MDM5NjgwNg==&mid=2247485108&idx=1&sn=9e878945cb828a793efa82062deefe5b&chksm=ead0fa5ddda7734b1da3effb09c17d684e088cab43cde8cbc76f9b06c0eac53a4685d622ddd7&token=2026700999&lang=zh_CN#rd)
 
 ![输入图片说明](images/1.png)
