@@ -49,7 +49,7 @@ MySQL 中比较常用的命令包括：
 - [MySQL原理介绍](https://blog.csdn.net/qq_35745940/article/details/121345690)
 - [MySQL高可用实战（ MHA）](https://blog.csdn.net/qq_35745940/article/details/125689223)
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/9c116c63adb14cefa969537ab96eefb2.png)
+![输入图片说明](images/1.png)
 ## 二、前期准备
 ### 1）部署 docker
 ```bash
