@@ -47,7 +47,7 @@ MySQL 中比较常用的命令包括：
 
 除了上述基本命令之外，MySQL 还支持事务处理、触发器、存储过程等高级特性。掌握 MySQL 的使用，可以帮助我们更好地进行数据存储、管理和处理。想了解更多MYSQL的知识点可参考我以下几篇文章：
 - [MySQL原理介绍](https://blog.csdn.net/qq_35745940/article/details/121345690)
-- [MySQL高可用实战（ MHA）](https://blog.csdn.net/qq_35745940/article/details/125689223)
+- [MySQL高可用实战（ MHA）](https://mp.weixin.qq.com/s?__biz=MzI3MDM5NjgwNg==&mid=2247485108&idx=1&sn=9e878945cb828a793efa82062deefe5b&chksm=ead0fa5ddda7734b1da3effb09c17d684e088cab43cde8cbc76f9b06c0eac53a4685d622ddd7&token=2026700999&lang=zh_CN#rd)
 
 ![输入图片说明](images/1.png)
 ## 二、前期准备
